@@ -1,0 +1,32 @@
+body {
+    background-color: #91b4db;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Cambria, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+}
+
+footer {
+    text-align: center;
+    background-color: lightblue;
+    padding: 3px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.site {
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+    background-color: lightblue;
+}
+.site img {
+    padding: 20px;
+    width: 50%;
+}
